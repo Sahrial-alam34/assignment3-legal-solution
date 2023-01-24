@@ -12,3 +12,13 @@ body {
 p {
     color: #777777;
 }
+.w-10 {
+    width: 10% !important;
+  }
+
+
+.text-footer {
+    color: #CFCFCF;
+}
+
+
